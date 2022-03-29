@@ -8,7 +8,7 @@
       "type": "image/x-icon"
     },{
       "src" : "Background.png",
-      "sizes": "192px",
+      "sizes": "192x192 512x512 920x920 ",
       "type": "image/png"
     }
   ],
