@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Robo-Friends-Redux/static/css/main.a6b80e11.css",
-    "main.js": "/Robo-Friends-Redux/static/js/main.ac904ab1.js",
+    "main.js": "/Robo-Friends-Redux/static/js/main.449c0264.js",
     "static/media/SEGA.woff": "/Robo-Friends-Redux/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
     "index.html": "/Robo-Friends-Redux/index.html",
     "main.a6b80e11.css.map": "/Robo-Friends-Redux/static/css/main.a6b80e11.css.map",
-    "main.ac904ab1.js.map": "/Robo-Friends-Redux/static/js/main.ac904ab1.js.map"
+    "main.449c0264.js.map": "/Robo-Friends-Redux/static/js/main.449c0264.js.map"
   },
   "entrypoints": [
     "static/css/main.a6b80e11.css",
-    "static/js/main.ac904ab1.js"
+    "static/js/main.449c0264.js"
   ]
 }
